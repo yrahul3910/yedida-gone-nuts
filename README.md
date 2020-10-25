@@ -19,6 +19,7 @@
 * `Outlier removal test` - Learn only from inliners
   * **Yes**, with some degree of success.
 * `Rolles theorem` - A hyper-parameter tuner based off Rolle's theorem.
+  * **No**; works in very specific cases ("sufficiently continuous" hyper-param spaces, sufficiently capable learners)
 * `Untitled` - Barely started, a cooperative network system for learning data augmentation + task
 * `Weighted losses` - Weighted loss functions.
   * **Yes**, see GHOST paper.
