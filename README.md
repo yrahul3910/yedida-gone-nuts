@@ -10,8 +10,14 @@
 * `Committee of models` - A committee of models to vote (like an ensemble)
   * **No**.
 * `Defect prediction` - Some defect prediction tinkering.
+* `Directly solving PDE` - Can we directly solve a PDE instead of using SGD, through symbolic evaluation?
+  * **No**.
+* `Hill Climbing Hyperparameter Optimization` - Does a hill-climbing approach to hyperparameter tuning work?
+  * **Yes**.
 * `Knowledge distillation` - KD trial on defect prediction dataset
   * **Yes**, but may need better KD approaches.
+* `Landscape analysis` - Use applied math to check simplicity of loss landscapes in SE.
+  * **Yes**, sorta.
 * `Linear regions in NNs` - Demonstration that more linear regions not necessarily better.
 * `Neural tangent kernel + SMOTE for defect prediction` - Basically the title.
   * **No**, does not work.
