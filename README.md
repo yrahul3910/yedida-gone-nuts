@@ -10,6 +10,8 @@
 * `Committee of models` - A committee of models to vote (like an ensemble)
   * **No**.
 * `Defect prediction` - Some defect prediction tinkering.
+* `Deprecate Naive Bayes for SE` - Do the assumptions of Naive Bayes hold for SE data?
+  * **No**.
 * `Directly solving PDE` - Can we directly solve a PDE instead of using SGD, through symbolic evaluation?
   * **No**.
 * `Hill Climbing Hyperparameter Optimization` - Does a hill-climbing approach to hyperparameter tuning work?
