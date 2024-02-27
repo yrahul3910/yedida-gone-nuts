@@ -18,6 +18,8 @@
   * **Yes**.
 * `Knowledge distillation` - KD trial on defect prediction dataset
   * **Yes**, but may need better KD approaches.
+* `Alpha-scale transformations` - Can we use alpha-scale transformations to make the loss smoother?
+  * **No**, at least not directly.
 * `Landscape analysis` - Use applied math to check simplicity of loss landscapes in SE.
   * **Yes**, sorta.
 * `Linear regions in NNs` - Demonstration that more linear regions not necessarily better.
